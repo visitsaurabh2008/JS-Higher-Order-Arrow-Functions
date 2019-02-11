@@ -1,1 +1,1 @@
-"# JS-Higher-Order-Arrow-Functions" 
+JS-Higher-Order-Arrow-Functions
